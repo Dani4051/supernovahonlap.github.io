@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(55, 58, 61);
+}
+
+
+
+.köszi {
+    font-family: sans-serif;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+.button {
+    background-color: #7b66d6;
+    border: none;
+    color: white;
+    padding: 10px 40px;
+    align-self: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 24px;
+    cursor: pointer;
+  }
+
+  .itt{
+      font-family: sans-serif;
+      text-align: center;
+      font-size: 20px;
+      color: white;
+      line-height: 30px;
+  }
